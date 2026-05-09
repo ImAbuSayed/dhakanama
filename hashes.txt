@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dhakanama
+
+This log tracks the cryptographic history and versioning for the song **Dhakanama** (dhakanama).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T03:53:29.715278 | `v1` | `b222761528692f829c4136f1f412ea14744e08470d4a15eea8ea98ec36119919` | `8979d919e4b9c37a4a9ad1c1c353a788f23a7d0624e43dee7eff3df161a33c32` | `2026-05-10_dhakanama-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

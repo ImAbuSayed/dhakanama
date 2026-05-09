@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dhakanama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dhakanama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhakanama/) |
+| **Get License** | [Request Licensing for Dhakanama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhakanama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b222761528692f829c4136f1f412ea14744e08470d4a15eea8ea98ec36119919` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
