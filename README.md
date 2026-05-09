@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dhakanama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dhakanama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhakanama/) |
+| **Get License** | [Secure Licensing Rights for Dhakanama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhakanama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের গভীরে খুঁজি তোমার সীমানা
+> পাথরের এই শহরে মন তো মানে না
+> বিষাক্ত এই বাতাসে তোমারই মায়া
+> বলো না কবে পাবো যে তোমার ছায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
